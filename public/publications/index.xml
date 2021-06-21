@@ -27,15 +27,5 @@ Threat detection and forensics have become an imperative component in every digi
 Human behavior is a reflection of brain activity, and brain disorders often result in abnormal behavior. Traditionally, interventions for brain disorders focus on either behavior, such as psychotherapy, or brain (e.g. medication, surgery), but not both. There are benefits of utilizing both brain and behavior modalities, such as early detection, treatment monitoring, and use of precision medicine to take into account individual differences. However, the central challenge in multimodal behavior and neurocognitive learning involves learning representations that can process and relate information from both modalities.</description>
     </item>
     
-    <item>
-      <title>A Multivariate Time Series Representation Learning on Zeek Logs for Network Anomaly Detection</title>
-      <link>https://ldselvera.github.io/publications/nids/</link>
-      <pubDate>Wed, 31 Dec 1969 18:33:40 -0600</pubDate>
-      
-      <guid>https://ldselvera.github.io/publications/nids/</guid>
-      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
- Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
-    </item>
-    
   </channel>
 </rss>
