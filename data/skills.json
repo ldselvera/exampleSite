@@ -1,0 +1,24 @@
+[
+  {
+      "grouping":"Machine Learning",
+      "skills":[ "NLP","Deep Learning","Machine Learning","Data Science","Data Mining","Anomaly Detection","Fraud Detection", "Data Visualization", "NIDS", "IDS"]
+  },
+  {
+      "grouping":"Tools",
+      "skills":[ "Pytorch", "Keras", "Tensorflow", "Fastai", "SciKit-Learn", "NLTK", "Spacy", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Jupyter Notebook", "Django", "Flask"]
+  },
+  {
+      "grouping":"Databases",
+      "skills":[
+        {"name":"MySQL","icon":"msql_server"},
+        {"name":"OracleDB","icon":"database"},
+        "PostgreSQL",
+        "MongoDB",
+        "OrientDB"
+      ]
+  },
+  {
+    "grouping":"Programming Languages",
+    "skills":[ "Python", "C", "C++", "Java", "MATLAB", "CLISP"]
+  }
+]

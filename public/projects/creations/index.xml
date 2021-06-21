@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Luis Selvera</title>
+    <link>https://ldselvera.github.io/projects/creations/</link>
+    <description>Recent content in Projects on Luis Selvera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://ldselvera.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tracking Covid-19 through Social Media using Sentiment Analysis</title>
+      <link>https://ldselvera.github.io/projects/creations/covid/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://ldselvera.github.io/projects/creations/covid/</guid>
+      <description>•	Worked in team of 7 implementing data pipeline to process unstructured text data from Twitter and Google
+•	Developed data preprocessing and analytics modules to cleanse and gain insight from collected dataset
+•	Developing text classification sentiment analysis deployed on website using Django web framework</description>
+    </item>
+    
+    <item>
+      <title>Fraud Detection using Encoder-Decoder Temporal Convolutional Network (ED-TCN)</title>
+      <link>https://ldselvera.github.io/projects/creations/fraud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldselvera.github.io/projects/creations/fraud/</guid>
+      <description>•	Implemented deep learning solution to detecting credit card frauds using sequential ED-TCN model
+•	Developed model using Keras achieving a 96% accuracy
+•	Presented project in RowdyHacks Hackathon workshop session with 40 attendees</description>
+    </item>
+    
+    <item>
+      <title>Text-based Classification of Questions on Q&amp;A Forums using Bi-LSTM</title>
+      <link>https://ldselvera.github.io/projects/creations/tutor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldselvera.github.io/projects/creations/tutor/</guid>
+      <description>•	Developed Bidirectional-LSTM model to detect improper questions using datasets from Q&amp;amp;A forums
+•	Deployed model on website using Flask web framework for users to input their questions for classifications
+•	Developed model using Pytorch achieving a 97% classification accuracy</description>
+    </item>
+    
+    <item>
+      <title>Trolls Detector using Bidirectional Encoder Representations from Transformers (BERT)</title>
+      <link>https://ldselvera.github.io/projects/creations/trolls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldselvera.github.io/projects/creations/trolls/</guid>
+      <description>•	Implemented deep learning solution to detecting trolls online using sequential BERT model for classification
+•	Built website that uses model to detect trolls on forums websites allowing users to input the posts
+•	Developed model using Pytorch and deployed on website using Flask web framework</description>
+    </item>
+    
+    <item>
+      <title>Tutor Tools Software</title>
+      <link>https://ldselvera.github.io/projects/creations/question/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ldselvera.github.io/projects/creations/question/</guid>
+      <description>•	Built a software application for tutoring services using Java and MySQL
+•	Applied software engineering principles, Agile Method, and software design patter model-view-controller (MVC)
+•	Allows tutors and students to manage tutoring sessions and give a visual organization of the collected information</description>
+    </item>
+    
+  </channel>
+</rss>

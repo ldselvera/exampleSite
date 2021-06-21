@@ -1,0 +1,16 @@
+[
+    {
+        "school":"[The University of Texas at San Antonio](https://utsa.edu)",
+        "degree":"Master of Science",
+        "major":"Computer Science",
+        "notes":"Concentration in Data Science",
+        "range":"2019 - 2021"
+    },
+    {
+        "school":"[The University of Texas Rio Grande Valley](https://utrgv.edu)",
+        "degree":"Bachelor of Science",
+        "major":"Computer Science",
+        "notes":"Cum Laude",
+        "range":"2015 - 2019"
+    }
+]

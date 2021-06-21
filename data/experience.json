@@ -1,0 +1,32 @@
+[
+    {
+        "role":"Cyber Security Intern",
+        "company":"Cyber Threat Intelligence Internship, Idaho National Laboratory",
+        "summary":"- Tested machine learning techniques for analysis of malware and extracted firmware\n- Performed data collection and transformations from various cyber threat intelligence sources: MISP, Alienvault, Mitre\n- Built Structured Threat Intelligence Graphs for analyzing threat intelligence with relational graphs and OrientDB",
+        "range":"June 2020 – Present"
+    },
+    {
+        "role":"Graduate Research Assistant",
+        "company":"Secure Artificial Intelligence and Autonomy Lab, The University of Texas at San Antonio",
+        "summary":"- Constructed NLP Transformer sequential models for classification, anomaly detection, and time series forecasting\n- Developed machine learning models to detect abnormal behavior and threats in systems with 90% detection rate\n- Analyzed and processed semi-structured real world data using advanced querying, visualization and analytics tools",
+        "range":"August 2019 – Present"
+    },
+    {
+        "role":"Teaching Assistant",
+        "company":"Computer Science Department, The University of Texas Rio Grande Valley",
+        "summary":"- Assisted on average 5 students per week by reviewing materials and providing assistance in assignments\n- Assisted students in accomplishing established learning objectives, with a 100% passing rate\n- Evaluated and supervise student’s assignment",
+        "range":"August 2018 – May 2019"
+    },
+    {
+        "role":"Robotics Intern",
+        "company":"Savannah River Environmental Science Field Station Engineering, Savannah River National Laboratory",
+        "summary":"- Gained understanding of hardware and software systems for robotics\n- Hands on experience and familiarity with robotic systems\n- Presented project results at poster session at Savannah River Site National Lab",
+        "range":"May 2018 – July 2018"
+    },
+    {
+        "role":"Academic Tutor ",
+        "company":"Student Support Services Department, The University of Texas Rio Grande Valley ",
+        "summary":"- Courses: C++, Java, Physics, Calculus, Linear Algebra, Probability & Statistics, College Algebra\n- Provided students with one-on-one assistance to achieve grade level performance\n- Presented five computer science and math workshops on average every semester to academically aid students",
+        "range":" June 2017 – May 2018"
+    }
+]
